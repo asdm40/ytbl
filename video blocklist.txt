@@ -1,4 +1,6 @@
 www.youtube.com##.video-list-item:has-text(/of silence broken up/i)
+www.youtube.com##.video-list-item:has-text(/hour of silence/i)
+www.youtube.com##.video-list-item:has-text(/hours of silence/i)
 www.youtube.com##.video-list-item:has-text(AI)
 www.youtube.com##.video-list-item:has-text(Cop)
 www.youtube.com##.video-list-item:has-text(CoD)
