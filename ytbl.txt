@@ -1,4 +1,7 @@
 www.youtube.com##.related-video:has-text(/of silence broken up/i)
+
+
+www.youtube.com##.related-video:has-text( — )
 www.youtube.com##.related-video:has-text(/the truth is /i)
 www.youtube.com##.related-video:has-text(/ than you think/i)
 www.youtube.com##.related-video:has-text(/hour of silence/i)
